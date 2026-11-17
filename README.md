@@ -1,5 +1,5 @@
 # Covid-19
-#📌 Project Overview
+#📌 Project Overview#
 
 This project uses Deep Learning and Convolutional Neural Networks (CNN) to classify chest X-ray images into two categories: COVID-19 and Normal.
 
