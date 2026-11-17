@@ -75,9 +75,3 @@ The model is evaluated using:
 📌 Conclusion
 
 This project demonstrates the use of Convolutional Neural Networks for classifying COVID-19 and Normal chest X-ray images. It provides practical experience in deep learning, image preprocessing, model development, and evaluation.
-
-👩‍💻 Author
-
-MSc Computer Science Student
-
-Project: COVID-19 Image Classification Using CNN
