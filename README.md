@@ -1,18 +1,18 @@
 # Covid-19
-📌 Project Overview
+#📌 Project Overview
 
 This project uses Deep Learning and Convolutional Neural Networks (CNN) to classify chest X-ray images into two categories: COVID-19 and Normal.
 
 The main objective is to explore how deep learning techniques can be applied to medical image classification.
 
-🎯 Objectives
+#🎯 Objectives
 
 - Classify chest X-ray images into COVID-19 and Normal categories.
 - Understand image preprocessing techniques.
 - Build and train a CNN model.
 - Evaluate model performance using classification metrics.
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -22,21 +22,21 @@ The main objective is to explore how deep learning techniques can be applied to 
 - Scikit-learn
 - Jupyter Notebook
 
-📂 Dataset
+#📂 Dataset
 
 The dataset contains chest X-ray images belonging to two classes:
 
 - COVID-19
 - Normal
 
-⚙️ Data Preprocessing
+#⚙️ Data Preprocessing
 
 - Convert image labels into binary format.
 - Split the dataset into training, validation, and testing sets (70:15:15).
 - Normalize image pixel values.
 - Prepare images for CNN model training.
 
-🧠 CNN Model Architecture
+#🧠 CNN Model Architecture
 
 The CNN model consists of:
 
@@ -46,7 +46,7 @@ The CNN model consists of:
 - Dense layer with 64 neurons and ReLU activation
 - Output layer with Sigmoid activation
 
-🚀 Model Training
+#🚀 Model Training
 
 - Optimizer: SGD
 - Loss Function: Binary Crossentropy
@@ -54,7 +54,7 @@ The CNN model consists of:
 - Epochs: 10
 - Batch Size: 8
 
-📊 Model Evaluation
+#📊 Model Evaluation
 
 The model is evaluated using:
 
@@ -64,7 +64,7 @@ The model is evaluated using:
 - F1-Score
 - Confusion Matrix
 
-▶️ How to Run the Project
+#▶️ How to Run the Project
 
 1. Clone this repository.
 2. Install the required libraries.
@@ -72,6 +72,6 @@ The model is evaluated using:
 4. Run the notebook cells in order.
 5. View the model training and evaluation results.
 
-📌 Conclusion
+#📌 Conclusion
 
 This project demonstrates the use of Convolutional Neural Networks for classifying COVID-19 and Normal chest X-ray images. It provides practical experience in deep learning, image preprocessing, model development, and evaluation.
